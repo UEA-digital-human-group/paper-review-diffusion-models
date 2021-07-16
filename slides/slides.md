@@ -1,6 +1,6 @@
 
 
-# Diffusion Models
+# Denoising Diffusion Probabilistic Models
 
 ---
 
